@@ -16,7 +16,9 @@ body {
 
 #root {
   margin: 0 auto;
-  width: 90rem;
+  width: 100%;
+  min-width: 90rem;
+  max-width: 130rem;
   height: max-content;
   background-color: #fdfdfd; }
   #root header,
